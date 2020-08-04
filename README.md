@@ -2,7 +2,7 @@
   <img src="/.github/logo.png" alt="Proffy" width="230">
 </p>
 <p align="center">
-  <img src="/src/assets/images/landing.svg" width="630">
+  <img src="web/src/assets/images/landing.svg" width="630">
 </p>
 
 <h1 align="center">Educational Platform</h1>
