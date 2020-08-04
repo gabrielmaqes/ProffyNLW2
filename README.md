@@ -32,37 +32,37 @@
 </ul>
 
 <h2 id="features">::ballot_box_with_check: Features</h2>
-<p>Os professores poderão se cadastrar na aplicação web para dar aula informando:</p>
+<p>Teachers will be able to register on the web application to teach classes informing:</p>
 <ul>
-  <li>Dados pessoais</li>
-  <li>Contato</li>
-  <li>Detalhes sobre o conteúdo a ser ministrado</li>
-  <li>Horários de disponibilidade</li>
-  <li>Custo das aulas</li>
+  <li>Personal data</li>
+  <li>Contact</li>
+  <li>Details on the content to be taught</li>
+  <li>Availability times</li>
+  <li>Cost of lessons</li>
 </ul>
-<p>Os alunos poderão acessar a aplicação web para:</p>
+<p>Students will be able to access the web application to:</p>
 <ul>
-  <li>Filtrar professores e conteúdos</li>
-  <li>Entrar em contato com professores</li>
+  <li>Filter teachers and content</li>
+  <li>Contact teachers</li>
 </ul>
 
 <h2 id="intro">:checkered_flag: How to run</h2>
 <p>
-  Você precisa se certificar de possuir em sua máquina as seguintes ferramentas: Node.js e Git.
-  Também é bom que tenha em mãos um editor de código de sua preferência, como o VS Code.
+  You need to make sure you have the following tools on your machine: Node.js and Git.
+  It is also good that you have a code editor of your choice, such as VS Code.
 </p>
-<h4>Clonando repositório</h4>
+<h4>Cloning repository</h4>
 
 > $ git clone https://github.com/gabrielmaqes/ProffyNLW2.git
 
-<h4>Instalando dependências</h4>
+<h4>Installing dependencies</h4>
 
 > $ npm install
 
-<p>ou</p>
+<p>or</p>
 
 > $ yarn install
 
-<h4>Rodando a aplicação</h4>
+<h4>Running the application</h4>
 
 > $ npm start
