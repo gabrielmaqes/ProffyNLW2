@@ -1,0 +1,72 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Git\cmd;C\:MinGW\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\MongoDB\Server\4.2\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\gradle-6.5\bin;C:\apache-maven-3.6.3\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\Claudiney\anaconda3;C:\Users\Claudiney\anaconda3\Library\mingw-w64\bin;C:\Users\Claudiney\anaconda3\Library\usr\bin;C:\Users\Claudiney\anaconda3\Library\bin;C:\Users\Claudiney\anaconda3\Scripts;C:\MinGW\bin;C:\Users\Claudiney\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Claudiney\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;;C:\Users\Claudiney\AppData\Roaming\Python\Python37\Scripts;C:\Users\Claudiney\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/core-js/-/core-js-2.6.11.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141375:19)
+      at Object.onceWrapper (events.js:417:28)
+      at ClientRequest.emit (events.js:311:20)
+      at TLSSocket.emitRequestTimeout (_http_client.js:714:9)
+      at Object.onceWrapper (events.js:417:28)
+      at TLSSocket.emit (events.js:311:20)
+      at TLSSocket.Socket._onTimeout (net.js:478:8)
+      at listOnTimeout (internal/timers.js:549:17)
+      at processTimers (internal/timers.js:492:7)
+
+npm manifest: 
+  {
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "@expo-google-fonts/archivo": "^0.1.0",
+      "@expo-google-fonts/poppins": "^0.1.0",
+      "@expo/vector-icons": "^10.2.0",
+      "@react-native-community/async-storage": "~1.11.0",
+      "@react-native-community/masked-view": "0.1.10",
+      "@react-navigation/bottom-tabs": "^5.8.0",
+      "@react-navigation/native": "^5.7.3",
+      "@react-navigation/stack": "^5.9.0",
+      "axios": "^0.19.2",
+      "expo": "~38.0.8",
+      "expo-font": "~8.2.1",
+      "expo-status-bar": "^1.0.2",
+      "react": "~16.11.0",
+      "react-dom": "~16.11.0",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+      "react-native-gesture-handler": "~1.6.0",
+      "react-native-reanimated": "~1.9.0",
+      "react-native-screens": "~2.9.0",
+      "react-native-web": "~0.11.7"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.8.6",
+      "@types/react": "~16.9.41",
+      "@types/react-native": "~0.62.13",
+      "typescript": "~3.9.5"
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
