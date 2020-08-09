@@ -13,12 +13,19 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'Archivo_700Bold',
+        fontFamily: 'Roboto',
+        fontWeight: 'bold',
         color: '#FFF',
         fontSize: 24,
         lineHeight: 32,
         maxWidth: 160,
         marginVertical: 40
+    },
+
+    header: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        alignItems: 'center'
     }
 });
 

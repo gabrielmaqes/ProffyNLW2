@@ -5,24 +5,26 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: '#8257E5',
         justifyContent: 'center',
-        padding: 40
+        padding: 40,
     },
 
     banner: {
         width: '100%',
-        resizeMode: 'contain'
+        resizeMode: 'contain',
     },
 
     title: {
-        fontFamily: 'Poppins_400Regular',
-        color: '#fff',
+        fontFamily: 'Roboto',
+        fontWeight: '400',
+        color: '#FFF',
         fontSize: 20,
         lineHeight: 30,
         marginTop: 80,
     },
 
     titleBold: {
-        fontFamily: 'Poppins_600SemiBold'
+        fontFamily: 'Roboto',
+        fontWeight: '600',
     },
 
     buttonsContainer: {
@@ -33,9 +35,9 @@ const styles = StyleSheet.create({
 
     button: {
         height: 150,
-        width: '40%',
+        width: '48%',
         backgroundColor: '#333',
-        borderRadius: 0,
+        borderRadius: 8,
         padding: 24,
         justifyContent: 'space-between',
         alignItems: 'center'
@@ -50,13 +52,15 @@ const styles = StyleSheet.create({
     },
 
     buttonText: {
-        fontFamily: 'Archivo_700Bold',
+        fontFamily: 'Roboto',
+        fontWeight: 'bold',
         color: '#FFF',
         fontSize: 20,
     },
 
     totalConnections: {
-        fontFamily: 'Poppins_400Ragulear',
+        fontFamily: 'Roboto',
+        fontWeight: '400',
         color: '#d4c2ff',
         fontSize: 12,
         lineHeight: 20,
