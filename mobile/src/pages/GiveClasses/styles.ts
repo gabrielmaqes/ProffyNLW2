@@ -14,8 +14,8 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',        
+        fontFamily: 'sans-serif',
+        fontWeight: '700',   
         color: '#FFF',
         fontSize: 32,
         lineHeight: 37,
@@ -27,8 +27,7 @@ const styles = StyleSheet.create({
         color: '#d4c2ff',
         fontSize: 16,
         lineHeight: 26,
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         maxWidth: 240
     },
 
@@ -44,8 +43,8 @@ const styles = StyleSheet.create({
     okButtonText: {
         color: '#FFF',
         fontSize: 16,
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
     }
 });
 

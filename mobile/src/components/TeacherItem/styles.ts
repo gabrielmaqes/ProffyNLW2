@@ -28,15 +28,14 @@ const styles = StyleSheet.create({
     },
 
     name: {
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         color: '#32264d',
         fontSize: 20,
     },
 
     subject: {
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         color: '#6a6180',
         fontSize: 12,
         marginTop: 4
@@ -44,8 +43,7 @@ const styles = StyleSheet.create({
 
     bio: {
         marginHorizontal: 24,
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         fontSize: 16,
         lineHeight: 27,
         color: '#6a6180'
@@ -59,15 +57,14 @@ const styles = StyleSheet.create({
     },
 
     price: {
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         color: '#6a6180',
         fontSize: 14,
     },
 
     priceValue: {
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         color: '#8257e5',
         fontSize: 16,
     },
@@ -104,8 +101,8 @@ const styles = StyleSheet.create({
 
     contactButtonText: {
         color: '#FFF',
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         fontSize: 16,
         marginLeft: 16,
     }

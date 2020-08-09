@@ -13,8 +13,8 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         color: '#FFF',
         fontSize: 24,
         lineHeight: 32,

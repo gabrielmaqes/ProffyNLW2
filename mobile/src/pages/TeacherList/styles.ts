@@ -16,8 +16,7 @@ const styles = StyleSheet.create({
 
     label: {
         color: '#d4c2ff',
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
     },
 
     input: {
@@ -50,8 +49,8 @@ const styles = StyleSheet.create({
 
     searchButtonText: {
         color: '#FFF',
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         fontSize: 16,
     }
 })

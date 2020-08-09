@@ -14,8 +14,7 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         color: '#FFF',
         fontSize: 20,
         lineHeight: 30,
@@ -23,8 +22,8 @@ const styles = StyleSheet.create({
     },
 
     titleBold: {
-        fontFamily: 'Roboto',
-        fontWeight: '600',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
     },
 
     buttonsContainer: {
@@ -52,15 +51,14 @@ const styles = StyleSheet.create({
     },
 
     buttonText: {
-        fontFamily: 'Roboto',
-        fontWeight: 'bold',
+        fontFamily: 'sans-serif',
+        fontWeight: '700',
         color: '#FFF',
         fontSize: 20,
     },
 
     totalConnections: {
-        fontFamily: 'Roboto',
-        fontWeight: '400',
+        fontFamily: 'sans-serif',
         color: '#d4c2ff',
         fontSize: 12,
         lineHeight: 20,
