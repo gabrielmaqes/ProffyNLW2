@@ -13,8 +13,7 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         color: '#FFF',
         fontSize: 24,
         lineHeight: 32,

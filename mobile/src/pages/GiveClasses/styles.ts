@@ -14,8 +14,7 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',   
+        fontFamily: 'Archivo_400Regular',  
         color: '#FFF',
         fontSize: 32,
         lineHeight: 37,
@@ -27,7 +26,7 @@ const styles = StyleSheet.create({
         color: '#d4c2ff',
         fontSize: 16,
         lineHeight: 26,
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         maxWidth: 240
     },
 
@@ -43,8 +42,7 @@ const styles = StyleSheet.create({
     okButtonText: {
         color: '#FFF',
         fontSize: 16,
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
     }
 });
 

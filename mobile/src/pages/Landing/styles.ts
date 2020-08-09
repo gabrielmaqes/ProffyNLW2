@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     },
 
     title: {
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         color: '#FFF',
         fontSize: 20,
         lineHeight: 30,
@@ -22,8 +22,7 @@ const styles = StyleSheet.create({
     },
 
     titleBold: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
     },
 
     buttonsContainer: {
@@ -51,14 +50,13 @@ const styles = StyleSheet.create({
     },
 
     buttonText: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         color: '#FFF',
         fontSize: 20,
     },
 
     totalConnections: {
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         color: '#d4c2ff',
         fontSize: 12,
         lineHeight: 20,

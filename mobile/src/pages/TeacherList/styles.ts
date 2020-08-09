@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
 
     label: {
         color: '#d4c2ff',
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
     },
 
     input: {
@@ -49,8 +49,7 @@ const styles = StyleSheet.create({
 
     searchButtonText: {
         color: '#FFF',
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         fontSize: 16,
     }
 })

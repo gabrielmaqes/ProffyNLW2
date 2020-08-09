@@ -28,14 +28,13 @@ const styles = StyleSheet.create({
     },
 
     name: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         color: '#32264d',
         fontSize: 20,
     },
 
     subject: {
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         color: '#6a6180',
         fontSize: 12,
         marginTop: 4
@@ -43,7 +42,7 @@ const styles = StyleSheet.create({
 
     bio: {
         marginHorizontal: 24,
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         fontSize: 16,
         lineHeight: 27,
         color: '#6a6180'
@@ -57,14 +56,13 @@ const styles = StyleSheet.create({
     },
 
     price: {
-        fontFamily: 'sans-serif',
+        fontFamily: 'Archivo_400Regular',
         color: '#6a6180',
         fontSize: 14,
     },
 
     priceValue: {
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         color: '#8257e5',
         fontSize: 16,
     },
@@ -101,8 +99,7 @@ const styles = StyleSheet.create({
 
     contactButtonText: {
         color: '#FFF',
-        fontFamily: 'sans-serif',
-        fontWeight: '700',
+        fontFamily: 'Archivo_400Regular',
         fontSize: 16,
         marginLeft: 16,
     }
